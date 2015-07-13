@@ -1,8 +1,8 @@
 alps:master
 alps:v3.1.3
-pgui:v3.1.2
+pg_ui:v3.1.2
 sal:v2.0.7
-pgcli:v5.0.3
+pg_cli:v5.0.3
 pkg:v6.0.4
-pgpylib:v1.0.1
+python-plumgridlib:v1.0.1
 
